@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color:lightgreen;
+  border: 5px groove cyan;
+}
+
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  background-color:beige;
+  width: 50%;
+  margin: 20px;
+}
+th,td{
+  border: 2px solid black;
+}
+tr:hover{
+  background-color: lightblue;
+  transform: scale(1.01);
+}
+thead{
+  background-color: lightslategray;
+}
+caption{
+  font-size: 2rem;
+}
+  
+
